@@ -1,0 +1,8 @@
+MIDlet-1: Midlet, , loginmid.Midlet
+MIDlet-Jar-Size: 1964
+MIDlet-Jar-URL: loginmid.jar
+MIDlet-Name: loginmid
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
