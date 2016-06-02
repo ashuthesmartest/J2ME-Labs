@@ -1,0 +1,8 @@
+MIDlet-1: Midlet, ,prak_img.myMidlet
+MIDlet-Jar-Size: 1058351
+MIDlet-Jar-URL: prak_img.jar
+MIDlet-Name: prak_img
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
