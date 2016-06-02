@@ -1,0 +1,8 @@
+MIDlet-1: Midlet, ,llui1.drawStringMidlet
+MIDlet-Jar-Size: 2216
+MIDlet-Jar-URL: hlui1.jar
+MIDlet-Name: hlui1
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

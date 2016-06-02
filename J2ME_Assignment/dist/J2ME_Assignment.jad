@@ -1,0 +1,8 @@
+MIDlet-1: Midlet, ,j2me_assignment.Midlet
+MIDlet-Jar-Size: 3402
+MIDlet-Jar-URL: J2ME_Assignment.jar
+MIDlet-Name: J2ME_Assignment
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
